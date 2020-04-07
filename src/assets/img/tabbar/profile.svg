@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+      }
+
+      .cls-2 {
+        stroke: #999;
+        stroke-width: 0.7px;
+      }
+    </style>
+  </defs>
+  <g id="wode_" transform="translate(-35 -3778)">
+    <rect id="矩形_108" data-name="矩形 108" class="cls-1" width="20" height="20" transform="translate(35 3778)"/>
+    <path id="我的" class="cls-2" d="M68.5,44.753A3.764,3.764,0,1,0,64.8,40.989,3.733,3.733,0,0,0,68.5,44.753Zm2.959.452H65.545A3.426,3.426,0,0,0,62,48.488v1.6a1.162,1.162,0,0,0,1.182,1.138H73.818A1.162,1.162,0,0,0,75,50.088v-1.6A3.426,3.426,0,0,0,71.455,45.2Z" transform="translate(-23.5 3743.274)"/>
+  </g>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fa0;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="wode" transform="translate(-35 -3778)">
+    <circle id="DI" class="cls-1" cx="10" cy="10" r="10" transform="translate(35 3778)"/>
+    <path id="我的" class="cls-2" d="M67,43.016a2.9,2.9,0,1,0-2.841-2.895A2.872,2.872,0,0,0,67,43.016Zm2.276.347H64.727A2.635,2.635,0,0,0,62,45.889V47.12a.894.894,0,0,0,.909.875h8.182A.894.894,0,0,0,72,47.12V45.889A2.635,2.635,0,0,0,69.273,43.363Z" transform="translate(-22 3744.774)"/>
+  </g>
+</svg>
