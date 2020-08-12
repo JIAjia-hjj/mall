@@ -16,7 +16,7 @@
     <!-- 营销 -->
     <div class="my_info" v-else-if="isMarketer&&phone!='未绑定'">
       <div class="photo marketerInfo.avatar?'':'border_none'">
-        <img :src="marketerInfo.avatar?marketerInfo.avatar:'https://sprogram.xxfgo.com/imgs/appserve/nologin_photo.png'" style="width:1.20rem;height:1.20rem"/>
+        <img :src="marketerInfo.avatar?marketerInfo.avatar:'https://sprogram.xxfgo.com/images/appserve/nologin_photo.png'" style="width:1.20rem;height:1.20rem"/>
       </div>
       <div class="info_span">
         <div class="span_name oneline">
@@ -37,6 +37,7 @@
         <div  class="span_name">{{nickname}}</div>
         <div class="span_txt"> 登录获取更多优惠信息</div>
       </div>
+      
       <button class="login_btn" open-type="getPhoneNumber"  data-url="/pages/bindphone/bindphone">立即登录</button>
     </div>
     <!-- 用户 -->

@@ -1,6 +1,6 @@
 <template>
 
-    <div class="list">
+    <div>
       <nav-bar class="home_nav">
         <div slot="left"></div>
         <div slot="center">个人中心</div>
@@ -139,7 +139,7 @@
 </template>
 
 <script>
-  import {getCarList} from 'network/list'
+  // import {getCarList} from 'network/profile'
   import Tip from 'components/common/tip/Tip'
   import NavBar from 'components/common/navbar/NavBar'
   import MainTabBar from 'components/content/mainTabBar/MainTabBar'
